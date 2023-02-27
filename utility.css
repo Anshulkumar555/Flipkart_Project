@@ -1,0 +1,20 @@
+.text-all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  padding: 5px 9px;
+  color: white;
+  background: var(--main-bg-color);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.my-1 {
+}
+.my-2 {
+  margin: 0px 0px 30px;
+}
+.text-center {
+  padding: 3px;
+}
